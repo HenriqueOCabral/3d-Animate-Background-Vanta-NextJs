@@ -45,3 +45,10 @@
 .btnTxt {
   font-size: 32px;
 }
+
+@media (max-width: 440px) {
+  .subMov {
+    font-size: 30px;
+    font-weight: 400;
+  }
+}
